@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Navbar animation */
+.navbar {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center1 {
+  max-width: 50%;
+  margin-top: 15%;
+}
+#time-counter {
+  font-size: 5rem;
+}
