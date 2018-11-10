@@ -1,5 +1,5 @@
+
 <!-- Time Counter -->
-<script type="text/javascript">
   // Set the date we're counting down to
   var countDownDate = new Date();
   countDownDate.setDate(countDownDate.getDate() + 30);
@@ -29,4 +29,3 @@
       document.getElementById("time-counter").innerHTML = "EXPIRED";
     }
   }, 1000);
-</script>
